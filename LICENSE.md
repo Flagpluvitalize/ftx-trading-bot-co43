@@ -1,4 +1,4 @@
-# 
+# advanced ftx trading bot Executor | webhook-support + grid-trading offers the most advanced ftx trading bot, with webhook-support and grid-trading. Ideal for professional traders
 
 
 
